@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img src="https://github.com/Yarvis2001/Yarvis2001/blob/main/banner.png">
 Student of software development engineering
 
-### PROJECTS.
+### PROJECTS
 -
 ### ABOUT ME
 I am a software development engineering student and an engineering assistant in the area of methods and timing. Passionate about technology and problem solving, I seek to combine my academic knowledge with my practical experience to drive efficiency and innovation in software development. Always updating my skills.
