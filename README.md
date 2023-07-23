@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alex
 =======================================================================================================================================
 <img src="https://github.com/Yarvis2001/Yarvis2001/blob/main/banner.png">
-###Student of software development engineering
+Student of software development engineering
 
 ### PROJECTS
-##- Data base with forms and VBA code for inventory administartions
-##- Pagina web de hipervínculos para administracion de proyectos
+- Data base with forms and VBA code for inventory administartions
+- Pagina web de hipervínculos para administracion de proyectos
 
 ### ABOUT ME
 I am a software development engineering student and an engineering assistant in the area of methods and timing. Passionate about technology and problem solving, I seek to combine my academic knowledge with my practical experience to drive efficiency and innovation in software development. Always updating my skills.
