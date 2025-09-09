@@ -97,15 +97,10 @@ Management Systems, Operating Systems
 
 ## Connect with me 
 
-<a href="https://www.instagram.com/anuj_kesharwani_/" target="_blank">
+<a href="https://www.instagram.com/tello.alejandr0" target="_blank">
 <img src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=f02b9a&style=for-the-badge&logo=instagram&logoColor=white" t=instagram style="margin-bottom: 5px;" />
 </a>
- <a href="https://www.facebook.com/anuj.kesharwani.397" target="_blank">
-<img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"  style="margin-bottom: 5px;" />
-</a>
- <a href="https://www.sololearn.com/Profile/9151475/?ref=app" target="_blank">
-<img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"  style="margin-bottom: 5px;" />
-</a>   
+
 
  <!--
   <a href="https://linkedin.com/in/" target="_blank">
