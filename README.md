@@ -3,13 +3,7 @@
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
 <p> 
-I am Amardeep Kesharwani, a passionate self-taught full stack web developer, working in both backend and frontend programming. 
-I love solving problems.
-I have experience in backend as well as frontent development and also
-Love competitive programming.
-I am also confident with Data Structures and
-Algorithms, Object-Oriented Programming, Database
-Management Systems, Operating Systems
+Software Development Engineering student with a focus on both frontend and backend web development. Passionate about problem-solving through competitive programming, applying efficient data structures and algorithms. Knowledgeable in Object-Oriented Programming, Operating Systems, and Database Management Systems. Have developed personal projects integrating various technologies and best development practices. Seeking to join a development team to strengthen my skills, collaborate on real projects, and learn how development methodologies are applied in a professional environment.
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
