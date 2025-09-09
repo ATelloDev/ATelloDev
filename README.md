@@ -1,6 +1,7 @@
 <h1 align="center"><b>Hi , I'm Alejandro Tello </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img align="right" width=300px alt="Unicorn" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXA1em1kanFzeWNtc2N0MG02aTFoZjdwOHNtMzVvZjduMTN5aWhwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD2ZJ0pdNmCxFikNQ5/giphy.gif" />
+<img align="right" width="300px" alt="Unicorn" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />
+
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVka240ZDE4ZTd4eGVoYmZidXgwa3cwbGMxeGNrejVxcXFpMDYzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lnnJmf0cY5AnVZaAjR/giphy.gif" width="30px">&nbsp;***About me***
 
@@ -47,23 +48,23 @@ I am a computer engineering student, currently halfway through my degree. I am e
 
 ## Check out my Social Media
 
-<a href= "https://www.instagram.com/valenwerle/?hl=es">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-<a href="https://www.tiktok.com/@vapixel_" >
+##<a href= "https://www.instagram.com/valenwerle/?hl=es">
+##    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+##</a>
+##<a href="https://www.tiktok.com/@vapixel_" >
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok">
-</a>
-<a href="https://www.twitch.tv/valenwerle" >
-  <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
-</a>
-<a href="https://www.youtube.com/@ValenWerle">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
-</a>
+##</a>
+##<a href="https://www.twitch.tv/valenwerle" >
+##  <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
+##</a>
+##<a href="https://www.youtube.com/@ValenWerle">
+##  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
+##</a>
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=valentinawerle&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/valentinawerle)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=valentinawerle&theme=material-palenight)](https://github.com/valentinawerle)
+[![](https://github-readme-stats.vercel.app/api?username=ATelloDev&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ATelloDev)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=ATelloDev&theme=material-palenight)](https://github.com/ATelloDev)
 </div>
 
 
