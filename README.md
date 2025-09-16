@@ -58,13 +58,13 @@ Passionate about problem-solving, I enjoy competitive programming and applying e
 
 <br> 
 
-## Projects Showcase
+## Projects
 
 Here you can find some of my projects, along with links to their repositories and screenshots.
 
 | Project Name | Description | Repository | Screenshot |
 |--------------|-------------|------------|------------|
-| BloodCode    | BloodCode fue un proyecto personal donde desarrollé una página web o API REST usando Node.js, Express, SQL Server y Sequelize, diseñada para asignar automáticamente donadores de sangre a pacientes según criterios como necesidad, sexo, edad y fechas de requerimiento. Me encargué principalmente del backend y de probar los endpoints directamente en el navegador. |  Pending | <img src= "https://github.com/ATelloDev/ATelloDev/blob/main/Resources/Blood%20code%20portada.png" width ="100%">|
+| BloodCode    | BloodCode was a personal project developed for Cesun Expomaker, an event at my university. I built a web page/API REST using Node.js, Express, SQL Server, and Sequelize, designed to automatically match blood donors to patients based on criteria such as urgency, gender, age, and request dates. I was mainly responsible for the backend and tested the endpoints directly in the browser. |  Pending | <img src= "https://github.com/ATelloDev/ATelloDev/blob/main/Resources/Blood%20code%20portada.png" width ="100%">|
 | Project 2    | Brief description of Project 2 | [GitHub Repo](https://github.com/username/project2) | ![Project 2 Screenshot](link-to-screenshot2) |
 | Project 3    | Brief description of Project 3 | [GitHub Repo](https://github.com/username/project3) | ![Project 3 Screenshot](link-to-screenshot3) |
 
