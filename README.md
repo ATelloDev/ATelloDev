@@ -1,4 +1,4 @@
- <img src="https://github.com/ATelloDev/ATelloDev/blob/main/Banner%20de%20Linkedin%20Futurista%20Moderno%20Sencillo%20Azul.png" width ="100%">
+ <img src="https://github.com/ATelloDev/ATelloDev/blob/main/Resources/Banner%20de%20Linkedin%20Futurista%20Moderno%20Sencillo%20Azul.png" width ="100%">
 <br />
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
@@ -64,7 +64,7 @@ Here you can find some of my projects, along with links to their repositories an
 
 | Project Name | Description | Repository | Screenshot |
 |--------------|-------------|------------|------------|
-| Project 1    | Brief description of Project 1 | Pending | ![Project 1 Screenshot](link-to-screenshot1) |
+| Project 1    | Brief description of Project 1 | Pending | ![Project 1 Screenshot] (https://github.com/ATelloDev/ATelloDev/blob/main/Resources/Blood%20code%20portada.png)|
 | Project 2    | Brief description of Project 2 | [GitHub Repo](https://github.com/username/project2) | ![Project 2 Screenshot](link-to-screenshot2) |
 | Project 3    | Brief description of Project 3 | [GitHub Repo](https://github.com/username/project3) | ![Project 3 Screenshot](link-to-screenshot3) |
 
