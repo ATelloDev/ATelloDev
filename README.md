@@ -58,7 +58,22 @@ Passionate about problem-solving, I enjoy competitive programming and applying e
 
 <br> 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+## Projects Showcase
+
+Here you can find some of my projects, along with links to their repositories and screenshots.
+
+| Project Name | Description | Repository | Screenshot |
+|--------------|-------------|------------|------------|
+| Project 1    | Brief description of Project 1 | Pending | ![Project 1 Screenshot](link-to-screenshot1) |
+| Project 2    | Brief description of Project 2 | [GitHub Repo](https://github.com/username/project2) | ![Project 2 Screenshot](link-to-screenshot2) |
+| Project 3    | Brief description of Project 3 | [GitHub Repo](https://github.com/username/project3) | ![Project 3 Screenshot](link-to-screenshot3) |
+
+Add more projects by following the same format. Make sure your screenshots are hosted online (e.g., in the repo or via an image hosting service) so they display correctly.
+
+
+
+<br> 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
 
 <p align="center">
