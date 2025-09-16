@@ -65,8 +65,6 @@ Here you can find some of my projects, along with links to their repositories an
 | Project Name | Description | Repository | Screenshot |
 |--------------|-------------|------------|------------|
 | BloodCode    | BloodCode was a personal project developed for Cesun Expomaker, an event at my university. I built a web page/API REST using Node.js, Express, SQL Server, and Sequelize, designed to automatically match blood donors to patients based on criteria such as urgency, gender, age, and request dates. I was mainly responsible for the backend and tested the endpoints directly in the browser. |  Pending | <img src= "https://github.com/ATelloDev/ATelloDev/blob/main/Resources/Blood%20code%20portada.png" width ="100%">|
-| Project 2    | Brief description of Project 2 | [GitHub Repo](https://github.com/username/project2) | ![Project 2 Screenshot](link-to-screenshot2) |
-| Project 3    | Brief description of Project 3 | [GitHub Repo](https://github.com/username/project3) | ![Project 3 Screenshot](link-to-screenshot3) |
 
 Add more projects by following the same format. Make sure your screenshots are hosted online (e.g., in the repo or via an image hosting service) so they display correctly.
 
@@ -77,20 +75,20 @@ Add more projects by following the same format. Make sure your screenshots are h
 
 
 <p align="center">
-<a href="https://github.com/AmardeepKesharwani/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmardeepKesharwani&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+<a href="https://github.com/ATelloDev/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ATelloDev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
 </a>
  
-<a href="https://github.com/AmardeepKesharwani">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmardeepKesharwani&theme=blueberry" width="380"/>
+<a href="https://github.com/ATelloDev">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ATelloDev&theme=blueberry" width="380"/>
 </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
-    <a href="https://github.com/AmardeepKesharwani"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmardeepKesharwani&theme=tokyonight&hide_border=true"  width="520" alt="Amardeep Kesharwani"/></a>
-<a href="https://github.com/AmardeepKesharwani"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amardeepkesharwani&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="AmardeepKesharwani"/></a>
+    <a href="https://github.com/AATelloDev"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ATelloDev&theme=tokyonight&hide_border=true"  width="520" alt="Amardeep Kesharwani"/></a>
+<a href="https://github.com/ATelloDev"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ATelloDev&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="ATelloDev"/></a>
 </p>
 
 ## Connect with me 
@@ -100,15 +98,6 @@ Add more projects by following the same format. Make sure your screenshots are h
 </a>
 
 
-
   <a href="https://linkedin.com/in/alejandro-tello-hernandez/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
- <!--<a href="https://twitter.com/" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white alt=hshnode style="margin-bottom: 5px;" />
-</a>   
--->      
