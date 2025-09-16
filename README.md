@@ -1,6 +1,7 @@
  <img src="https://github.com/ATelloDev/ATelloDev/blob/main/Resources/Banner%20de%20Linkedin%20Futurista%20Moderno%20Sencillo%20Azul.png" width ="100%">
-<br />
-<h2> Hi There, Welcome to my Github profile! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFtNmllYXVsd3c2YmZheHZ3cTc2ZXZ6OXpid3VrMWE1ZzQwazZxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xuPJrZiruRQ1KRr9Ea/giphy.gif" width="55"></h2>
+
+<h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFtNmllYXVsd3c2YmZheHZ3cTc2ZXZ6OXpid3VrMWE1ZzQwazZxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xuPJrZiruRQ1KRr9Ea/giphy.gif" width="55"> Hi, I'm Alejandro Tello! Welcome to my GitHub profile.
+</h2>
 
 <p> 
 Hi there! Welcome to my GitHub profile.
@@ -8,6 +9,16 @@ I’m a Software Development Engineering student with experience in both backend
 
 Passionate about problem-solving, I enjoy competitive programming and applying efficient data structures and algorithms. I’m eager to contribute to real-world projects, expand my skills, and learn how professional development methodologies are applied.
 </p>
+
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJ2bDJpZHFnZTlrdHhubXE5NGJxYTFvcTZjdGd0ODVmNHkwOWIzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ePbYFsxt7gb1CXLloL/giphy.gif" width ="25"><b> Connect with me </b>
+<a href="https://www.instagram.com/tello.alejandr0" target="_blank">
+  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?color=f02b9a&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://linkedin.com/in/alejandro-tello-hernandez/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+</a>
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -65,16 +76,7 @@ Here you can find some of my projects, along with links to their repositories an
 |--------------|-------------|------------|------------|
 | BloodCode    | BloodCode was a personal project developed for Cesun Expomaker, an event at my university. I built a web page/API REST using Node.js, Express, SQL Server, and Sequelize, designed to automatically match blood donors to patients based on criteria such as urgency, gender, age, and request dates. I was mainly responsible for the backend and tested the endpoints directly in the browser. | <a href="https://bc-expo-cesun.vercel.app/" target="_blank"> Vercel Link    (API in process)</a><br>| <img src= "https://github.com/ATelloDev/ATelloDev/blob/main/Resources/Blood%20code%20portada.png" width ="100%">|
 
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJ2bDJpZHFnZTlrdHhubXE5NGJxYTFvcTZjdGd0ODVmNHkwOWIzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ePbYFsxt7gb1CXLloL/giphy.gif" width ="25"><b> Connect with me </b>
 
-<a href="https://www.instagram.com/tello.alejandr0" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=f02b9a&style=for-the-badge&logo=instagram&logoColor=white" t=instagram style="margin-bottom: 5px;" />
-</a>
-
-
-  <a href="https://linkedin.com/in/alejandro-tello-hernandez/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
 
 
 
