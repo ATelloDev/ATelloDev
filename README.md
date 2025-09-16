@@ -64,7 +64,7 @@ Here you can find some of my projects, along with links to their repositories an
 
 | Project Name | Description | Repository | Screenshot |
 |--------------|-------------|------------|------------|
-| Project 1    | Brief description of Project 1 | Pending | <img src= "https://github.com/ATelloDev/ATelloDev/blob/main/Resources/Blood%20code%20portada.png" width ="100%">|
+| BloodCode    | BloodCode fue un proyecto personal donde desarrollé una página web o API REST usando Node.js, Express, SQL Server y Sequelize, diseñada para asignar automáticamente donadores de sangre a pacientes según criterios como necesidad, sexo, edad y fechas de requerimiento. Me encargué principalmente del backend y de probar los endpoints directamente en el navegador. | Pending | <img src= "https://github.com/ATelloDev/ATelloDev/blob/main/Resources/Blood%20code%20portada.png" width ="100%">|
 | Project 2    | Brief description of Project 2 | [GitHub Repo](https://github.com/username/project2) | ![Project 2 Screenshot](link-to-screenshot2) |
 | Project 3    | Brief description of Project 3 | [GitHub Repo](https://github.com/username/project3) | ![Project 3 Screenshot](link-to-screenshot3) |
 
