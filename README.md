@@ -66,7 +66,6 @@ Here you can find some of my projects, along with links to their repositories an
 |--------------|-------------|------------|------------|
 | BloodCode    | BloodCode was a personal project developed for Cesun Expomaker, an event at my university. I built a web page/API REST using Node.js, Express, SQL Server, and Sequelize, designed to automatically match blood donors to patients based on criteria such as urgency, gender, age, and request dates. I was mainly responsible for the backend and tested the endpoints directly in the browser. |  Pending | <img src= "https://github.com/ATelloDev/ATelloDev/blob/main/Resources/Blood%20code%20portada.png" width ="100%">|
 
-Add more projects by following the same format. Make sure your screenshots are hosted online (e.g., in the repo or via an image hosting service) so they display correctly.
 
 
 
