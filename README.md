@@ -5,9 +5,9 @@
 
 <p> 
 ¡Hola! Bienvenido a mi perfil de GitHub.
-Soy estudiante de Ingeniería en Desarrollo de Software con experiencia en desarrollo tanto backend como frontend. He construido proyectos personales y académicos utilizando C#, WPF, SQL Server, Node.js, Express, Python y Excel con VBA, enfocándome siempre en las mejores prácticas y la automatización.
+Soy Ingeniero en Desarrollo de Software con sólida experiencia en entornos de manufactura médica, desarrollo de aplicaciones de escritorio e interfaces de usuario, integración de software con hardware y automatización de procesos operativos. Cuento con habilidades tanto en backend como en frontend, destacando en el control de maquinaria, adquisición de datos en tiempo real, bases de datos SQL e infraestructura tecnológica[cite: 1].
 
-Apasionado por la resolución de problemas, disfruto de la programación competitiva y de aplicar estructuras de datos y algoritmos eficientes. Estoy ansioso por contribuir en proyectos del mundo real, expandir mis habilidades y aprender cómo se aplican las metodologías de desarrollo profesional.
+Apasionado por la resolución de problemas, la programación competitiva y la optimización de procesos mediante buenas prácticas, estoy enfocado en aportar valor en proyectos del mundo real y conectar el desarrollo de software con la ingeniería de procesos.
 </p>
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJ2bDJpZHFnZTlrdHhubXE5NGJxYTFvcTZjdGd0ODVmNHkwOWIzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ePbYFsxt7gb1CXLloL/giphy.gif" width ="25"><b> Conecta conmigo </b>
@@ -24,58 +24,51 @@ Apasionado por la resolución de problemas, disfruto de la programación competi
 
 <p align="center">
 
-- 📋 Lenguajes: 
+- 📋 Lenguajes y .NET: 
     
-    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-    ![nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-    ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
     ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+    ![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   
     
-- 🎨 Frameworks
+- 🎨 Frameworks y Entornos
 
    ![Reactjs](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-   ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-   ![GraphQl](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+   ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+   ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
     
 - 💾 Bases de Datos:
 
-    
-    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) 
-    ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
     ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+    ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) 
     
-    
-- 🎛️ Aplicaciones y Herramientas:
+- 🎛️ Hardware, Procesos e Ingeniería:
 
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-    ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-    ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
     ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-    ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-    ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
     
 </p>
 
 
-## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhxN2g5MzZyc2p6M2g0aWo2dGlrbzJ0Y2d5enlhbjhlOXJ6d3N1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vQsCJazZqppQx5xNzy/giphy.gif" width ="45"><b> Proyectos </b>
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhxN2g5MzZyc2p6M2g0aWo2dGlrbzJ0Y2d5enlhbjhlOXJ6d3N1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vQsCJazZqppQx5xNzy/giphy.gif" width ="45"><b> Proyectos Destacados </b>
 <br> 
-Aquí puedes encontrar algunos de mi proyectos, junto con enlaces a sus repositorios y capturas de pantalla.
+Aquí puedes encontrar algunos de mis proyectos académicos y profesionales, junto con enlaces a sus repositorios y capturas de pantalla.
 
 | Nombre del Proyecto | Descripción | Repositorio | Captura de Pantalla |
 |--------------|-------------|------------|------------|
-| BloodCode    | BloodCode fue un proyecto personal desarrollado para Cesun Expomaker, un evento en mi universidad. Construí una página web/API REST usando Node.js, Express, SQL Server y Sequelize, diseñada para emparejar automáticamente a donantes de sangre con pacientes basándose en criterios como urgencia, género, edad y fechas de solicitud. Fui el principal responsable del backend y probé los endpoints directamente en el navegador. | <a href="https://bc-expo-cesun.vercel.app/" target="_blank"> Enlace a Vercel (API en proceso)</a><br>| <img src= "https://github.com/ATelloDev/ATelloDev/blob/main/Resources/Blood%20code%20portada.png" width ="100%">|
-| BaiMao (白猫) - Plataforma HSK1   | Ecosistema integral para el aprendizaje de chino mandarín nivel HSK1. Esta plataforma full-stack combina un backend robusto con interfaces Web y Móviles modernas, todo orquestado bajo una infraestructura escalable y segura. | N/A| <img src= "https://github.com/ATelloDev/ATelloDev/blob/main/Baimao.png" width ="100%">|
+| BloodCode    | Proyecto desarrollado para Cesun Expomaker[cite: 1]. Construido como una API REST usando Node.js, Express, SQL Server y Sequelize, diseñado para emparejar automáticamente a donantes de sangre con pacientes basándose en criterios como urgencia, género, edad y fechas de solicitud. | <a href="https://bc-expo-cesun.vercel.app/" target="_blank"> Enlace a Vercel</a><br>| <img src= "https://github.com/ATelloDev/ATelloDev/blob/main/Resources/Blood%20code%20portada.png" width ="100%">|
+| BaiMao (白猫) - Plataforma HSK1   | Ecosistema integral para el aprendizaje de chino mandarín nivel HSK1. Esta plataforma full-stack combina un backend robusto con interfaces Web y Móviles modernas, orquestado bajo una infraestructura escalable. | N/A| <img src= "https://github.com/ATelloDev/ATelloDev/blob/main/Baimao.png" width ="100%">|
 
 
 
@@ -96,6 +89,6 @@ Aquí puedes encontrar algunos de mi proyectos, junto con enlaces a sus reposito
 </br>
 
 <p align="center">
-    <a href="https://github.com/AATelloDev"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ATelloDev&theme=tokyonight&hide_border=true"  width="520" alt="ATelloDe"/></a>
+    <a href="https://github.com/ATelloDev"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ATelloDev&theme=tokyonight&hide_border=true"  width="520" alt="ATelloDev"/></a>
 <a href="https://github.com/ATelloDev"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ATelloDev&show_icons=true&locale=es&layout=compact&theme=tokyonight" width="320"  alt="ATelloDev"/></a>
 </p>
