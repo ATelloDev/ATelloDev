@@ -5,7 +5,7 @@
 
 <p> 
 ¡Hola! Bienvenido a mi perfil de GitHub.
-Soy Ingeniero en Desarrollo de Software con sólida experiencia en entornos de manufactura médica, desarrollo de aplicaciones de escritorio e interfaces de usuario, integración de software con hardware y automatización de procesos operativos. Cuento con habilidades tanto en backend como en frontend, destacando en el control de maquinaria, adquisición de datos en tiempo real, bases de datos SQL e infraestructura tecnológica[cite: 1].
+Soy Ingeniero en Desarrollo de Software con sólida experiencia en entornos de manufactura médica, desarrollo de aplicaciones de escritorio e interfaces de usuario, integración de software con hardware y automatización de procesos operativos. Cuento con habilidades tanto en backend como en frontend, destacando en el control de maquinaria, adquisición de datos en tiempo real, bases de datos SQL e infraestructura tecnológica.
 
 Apasionado por la resolución de problemas, la programación competitiva y la optimización de procesos mediante buenas prácticas, estoy enfocado en aportar valor en proyectos del mundo real y conectar el desarrollo de software con la ingeniería de procesos.
 </p>
